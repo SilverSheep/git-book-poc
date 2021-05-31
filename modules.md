@@ -4,4 +4,4 @@
 
 ## Modules
 
-- [sdk/model.model](modules/model.model.md)
+- [sdk/model.model](sdk/model.model.md)
