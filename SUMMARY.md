@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+* [API test](api-test.md)
 * [API modules](api-modules.md)
 * [API README](api-readme.md)
 * [Created by API2](created-by-api2-2.md)
