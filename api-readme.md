@@ -1,6 +1,6 @@
 # API README
 
-sdk / [Modules](modules)
+sdk / [Modules](api-modules.md)
 
 ## SDK
 
