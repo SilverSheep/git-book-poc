@@ -1,7 +1,10 @@
-[rta-sdk](README.md) / Modules
+# modules
 
-# rta-sdk
+[rta-sdk](./) / Modules
 
-## Modules
+## rta-sdk
 
-- [sdk/model.model](sdk/model.model.md)
+### Modules
+
+* [sdk/model.model](sdk/model.model.md)
+

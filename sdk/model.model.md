@@ -1,3 +1,6 @@
-[rta-sdk](../README.md) / [Modules](../modules.md) / model
+# model.model
+
+[rta-sdk](../) / [Modules](../modules.md) / model
 
 Model
+
